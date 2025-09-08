@@ -1,10 +1,13 @@
 Tugas Week 4
+
 Proyek ini adalah implementasi tugas minggu ke-4 yang mendemonstrasikan penggunaan beberapa plugin Node.js, seperti: chalk, cowsay, dan figlet untuk memanipulasi output di terminal.
 
 Proyek ini juga mengimplementasikan beberapa fitur tambahan (enhancements) untuk poin kreativitas, termasuk boxen, gradient-string, dayjs, dan input dari terminal.
 
 Dibuat oleh:
+
 Nama: Excel Caesariano
+
 NIM: F1D022118
 
 ⚙️ Steps to Install Dependencies
